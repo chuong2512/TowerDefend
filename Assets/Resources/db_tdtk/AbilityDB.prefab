@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1790578114300781041}
+  m_IsPrefabParent: 1
+--- !u!4 &1790578114351112690
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790578114300781041}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790578114300781041
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1790578114351112690}
+  - component: {fileID: 1790578116196606451}
+  m_Layer: 0
+  m_Name: "AbilityDB"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790578116196606451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790578114300781041}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4b7947d0ace2f4d73c8748ef27014a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  abilityList:
+  - ID: 0
+    name: "Strike"
+    icon: {fileID: 21300000, guid: 19bdd4d1445b4d448d2ea579fae798ed, type: 3}
+    disableInAbilityManager: 0
+    cost: 1
+    cooldown: 120
+    currentCD: 0
+    requireTargetSelection: 1
+    singleUnitTargeting: 0
+    targetType: 2
+    maxUseCount: -1
+    usedCount: 0
+    usedRemained: 0
+    useDefaultEffect: 1
+    effect:
+      duration: 2
+      damageMin: 20
+      damageMax: 35
+      stunChance: 0.1
+      slow:
+        effectID: 0
+        duration: 2
+        slowMultiplier: 0
+      dot:
+        effectID: 0
+        duration: 2
+        interval: 0
+        value: 0
+      damageBuff: 0
+      rangeBuff: 0
+      cooldownBuff: 0
+      HPGainMin: 0
+      HPGainMax: 0
+    aoeRadius: 4
+    effectDelay: 1.2
+    indicator: {fileID: 0}
+    effectObj: {fileID: 1790578114300781047, guid: e97532bbf24a42f41a4db94d0b85ee77, type: 2}
+    destroyEffectObj: 1
+    destroyEffectDuration: 3
+    useCustomDesp: 0
+    desp: "Test Ability"

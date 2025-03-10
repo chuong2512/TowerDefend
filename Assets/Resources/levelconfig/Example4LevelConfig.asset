@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fcf16be09ba24fbe5b6b1383fbf92bb, type: 3}
+  m_Name: "Example4LevelConfig"
+  m_EditorClassIdentifier: 
+  creationDate: 0
+  _active: 0
+  levels:
+  - _sceneObject: {fileID: 0}
+    _scenePath: "Assets\x2fMad Level Manager\x2fExamples\x2fExample 4 - Icons Score\x2fExample4LevelSelect.unity"
+    _sceneName: "Example4LevelSelect"
+    scene: 
+    parent: {fileID: 11400000, guid: 1f2971f458934d4cbfda2e6df2362c56, type: 2}
+    order: 0
+    name: "Level Select"
+    type: 0
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 0
+  - _sceneObject: {fileID: 0}
+    _scenePath: "Assets\x2fMad Level Manager\x2fExamples\x2fExample 4 - Icons Score\x2fExample4GameScene.unity"
+    _sceneName: "Example4GameScene"
+    scene: 
+    parent: {fileID: 11400000, guid: 1f2971f458934d4cbfda2e6df2362c56, type: 2}
+    order: 10
+    name: "Level 1"
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 0
+  - _sceneObject: {fileID: 0}
+    _scenePath: "Assets\x2fMad Level Manager\x2fExamples\x2fExample 4 - Icons Score\x2fExample4GameScene.unity"
+    _sceneName: "Example4GameScene"
+    scene: 
+    parent: {fileID: 11400000, guid: 1f2971f458934d4cbfda2e6df2362c56, type: 2}
+    order: 20
+    name: "Level 2"
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 1
+  - _sceneObject: {fileID: 0}
+    _scenePath: "Assets\x2fMad Level Manager\x2fExamples\x2fExample 4 - Icons Score\x2fExample4GameScene.unity"
+    _sceneName: "Example4GameScene"
+    scene: 
+    parent: {fileID: 11400000, guid: 1f2971f458934d4cbfda2e6df2362c56, type: 2}
+    order: 30
+    name: "Level 3"
+    type: 1
+    arguments: 
+    groupId: 0
+    extensionGUID: 
+    lockedByDefault: 1
+  groups: []
+  extensions: []
+  version: 1
+  flag: 0

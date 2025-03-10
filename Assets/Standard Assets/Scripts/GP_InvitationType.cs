@@ -1,0 +1,5 @@
+public enum GP_InvitationType
+{
+	INVITATION_TYPE_REAL_TIME,
+	INVITATION_TYPE_TURN_BASED
+}

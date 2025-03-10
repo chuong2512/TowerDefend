@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Screen/Start.unity
+    guid: df59e64f647af7b49aca7340cec65159
+  - enabled: 1
+    path: Assets/_Screen/Level Select.unity
+    guid: 08d5f558e965bdb45b0f3847800f6f70
+  - enabled: 1
+    path: Assets/_Screen/Upgrade.unity
+    guid: 134c38d62b503ef43a1d838317797425
+  - enabled: 1
+    path: Assets/_Screen/Save Game.unity
+    guid: fb87e3b7cefddb2428bf4021897d8a58
+  - enabled: 1
+    path: Assets/_Screen/Loading2.unity
+    guid: ca5967a6119230e4fb26cc50797b8122
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level EndLess.unity
+    guid: c7506757d9c9d004c8b6d69c08a7a835
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 1.unity
+    guid: 80b7ecdb2c2ecf242ad9321476939947
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 2.unity
+    guid: 3a7ec4d1c890a5e458553ec0981418d5
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 3.unity
+    guid: da06bb30c973b9746b9dc9a698368f82
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 4.unity
+    guid: 6a36d0befb802af4fba90dab04c8f85b
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 5.unity
+    guid: 2dbc2a3a63143dd45bbcc18ecde9a1c4
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 6.unity
+    guid: 03bd98fb78bbbc34eaa64f21bf24944a
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 7.unity
+    guid: 518ccf080912c924693fa9417a7a579e
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 8.unity
+    guid: ec3b51a6198d9c540be1d2b1079e68fd
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 9.unity
+    guid: c041600ae49faef49adc800b0590cf99
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 10.unity
+    guid: 09fde944a34a0c24986b675196071dd5
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 11.unity
+    guid: dd138b4f1e473d54e8361a9015c343c5
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 12.unity
+    guid: 528e93fc4c88a1e4ca8608b61d1ba0d0
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 13.unity
+    guid: 90a679ed03fa0674fac8bbd085099a07
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 14.unity
+    guid: dd51f6de3eaef9e45b97bc41160a59f9
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 15.unity
+    guid: 81961ee82886e454ab25a1ebe9c763e2
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 16.unity
+    guid: c3b0c0c3668d13040ac7c03b77fd415a
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 17.unity
+    guid: dd3a7732f90e0144e93eaeeaebf2c18a
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 18.unity
+    guid: c06175455097dc84f8b5619e6ad4aca4
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 19.unity
+    guid: 06595ad51dad9e245b12dcff06a53daf
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 20.unity
+    guid: 690c9e5146d68084eba893ad47757f07
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 21.unity
+    guid: 2247c471d2ee01e429e553a6ab59f76c
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 22.unity
+    guid: 95adae1b059045e4387c35500c259612
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 23.unity
+    guid: c5c81c94047dd8b448f7c0d5f7e2c405
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 24.unity
+    guid: 58e1ede5c6bf7234abd1ccae140513fd
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 25.unity
+    guid: 22b1435b4acfe4a40b2179a31a07f210
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 26.unity
+    guid: 886ec8e6d36379a4cb25c58309474dc1
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 27.unity
+    guid: ef5688d77ece34c4a85ab19b695140a5
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 28.unity
+    guid: 06253392c8db45a428480e716fa5d4a6
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 29.unity
+    guid: 31cd861fbcc233a4ba11a3348fad7eab
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 30.unity
+    guid: 32ccaa48d4ec24e49a8a9779e983f2f1
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 31.unity
+    guid: 199b07a2eec1c0b40ad4809a50a1a05b
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 32.unity
+    guid: 0650421c4399b784ab133ab159fbba88
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 33.unity
+    guid: 17bba4cb86fd4754598f81a1eb3122a0
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 34.unity
+    guid: 316dfb3b1184de8458644602cfe534b5
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 35.unity
+    guid: 54e97f924834f3c4586e4d5c525ea2bb
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 36.unity
+    guid: 0c5c2df11698ef849b46592e2bb55a4b
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 37.unity
+    guid: cb034a21ac7cdb648a6f8117b79957b4
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 38.unity
+    guid: 3fca365e63bc9dd46898e430e7cb15e8
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 39.unity
+    guid: 41b0c7adb6ee32640ae8b603874d22ee
+  - enabled: 1
+    path: Assets/_Screen/Campaign Level/Level 40.unity
+    guid: c2d51f0fea8207e4d8981086286cd3ea
+  m_configObjects: {}

@@ -1,0 +1,6 @@
+public enum AN_PlusBtnAnnotation
+{
+	ANNOTATION_NONE,
+	ANNOTATION_BUBBLE,
+	ANNOTATION_INLINE
+}

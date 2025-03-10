@@ -1,0 +1,29 @@
+namespace TDTK
+{
+	public enum _PerkType
+	{
+		NewTower,
+		NewAbility,
+		NewFPSWeapon,
+		GainLife,
+		LifeCap,
+		LifeRegen,
+		LifeWaveClearedBonus,
+		GainRsc,
+		RscRegen,
+		RscGain,
+		RscCreepKilledGain,
+		RscWaveClearedGain,
+		RscResourceTowerGain,
+		Tower,
+		TowerSpecific,
+		Ability,
+		AbilitySpecific,
+		FPSWeapon,
+		FPSWeaponSpecific,
+		EnergyRegen,
+		EnergyIncreaseCap,
+		EnergyCreepKilledBonus,
+		EnergyWaveClearedBonus
+	}
+}

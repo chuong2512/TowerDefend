@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 6fb13d80578f48488e40f9f4c8fd8b61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: skill icon_0
+  - first:
+      213: 21300002
+    second: skill icon_1
+  - first:
+      213: 21300004
+    second: skill icon_2
+  - first:
+      213: 21300006
+    second: skill icon_3
+  - first:
+      213: 21300008
+    second: skill icon_5
+  - first:
+      213: 21300010
+    second: skill icon_6
+  - first:
+      213: 21300012
+    second: skill icon_7
+  - first:
+      213: 21300014
+    second: skill icon_9
+  - first:
+      213: 21300016
+    second: skill icon_10
+  - first:
+      213: 21300018
+    second: skill icon_11
+  - first:
+      213: 21300020
+    second: skill icon_12
+  - first:
+      213: 21300022
+    second: skill icon_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skill icon_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 299
+        width: 141
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -67.5}
+        - {x: -70.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+      - - {x: 64.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: -70.5, y: 70.5}
+      - - {x: 57.5, y: -70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: -58.5}
+        - {x: 57.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: 69.5}
+        - {x: 70.5, y: -58.5}
+        - {x: 64.5, y: 70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d6fd77c85201b4aae828a465695e16
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill icon_9
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 149
+        width: 141
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -67.5}
+        - {x: -70.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+      - - {x: 64.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: -70.5, y: 70.5}
+      - - {x: 57.5, y: -70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: -58.5}
+        - {x: 57.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: 69.5}
+        - {x: 70.5, y: -58.5}
+        - {x: 64.5, y: 70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbf6704083863746b296cf306cd4bcf
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill icon_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 153
+        width: 140
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -69.5}
+        - {x: -70, y: 60.5}
+        - {x: 70, y: -69.5}
+      - - {x: -66, y: 69.5}
+        - {x: 70, y: -69.5}
+        - {x: -70, y: 60.5}
+      - - {x: 60, y: 69.5}
+        - {x: 70, y: -69.5}
+        - {x: -66, y: 69.5}
+      - - {x: 70, y: 61.5}
+        - {x: 70, y: -69.5}
+        - {x: 60, y: 69.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b217f398b35b9d45b7652437445dc15
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill icon_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 141
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -67.5}
+        - {x: -70.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+      - - {x: 64.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: -70.5, y: 70.5}
+      - - {x: 57.5, y: -70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: -58.5}
+        - {x: 57.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: 69.5}
+        - {x: 70.5, y: -58.5}
+        - {x: 64.5, y: 70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f13563a8b5d82458a83cd0438ccac9
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill icon_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 150
+        width: 141
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -67.5}
+        - {x: -70.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+      - - {x: 64.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: -70.5, y: 70.5}
+      - - {x: 57.5, y: -70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: -58.5}
+        - {x: 57.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: 69.5}
+        - {x: 70.5, y: -58.5}
+        - {x: 64.5, y: 70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e97062e06b322e4f9b97b066cec7af8
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill icon_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1
+        width: 141
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -67.5}
+        - {x: -70.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+      - - {x: 64.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: -70.5, y: 70.5}
+      - - {x: 57.5, y: -70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: -58.5}
+        - {x: 57.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: 69.5}
+        - {x: 70.5, y: -58.5}
+        - {x: 64.5, y: 70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b91a3eeaced39e4fb5ffc66b3deeaff
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill icon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 141
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -67.5}
+        - {x: -70.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+      - - {x: 64.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: -70.5, y: 70.5}
+      - - {x: 57.5, y: -70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: -58.5}
+        - {x: 57.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: 69.5}
+        - {x: 70.5, y: -58.5}
+        - {x: 64.5, y: 70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79acd5ce13b4eb546a8e93d85eabf0da
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill icon_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 300
+        width: 141
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -67.5}
+        - {x: -70.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+      - - {x: 64.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: -70.5, y: 70.5}
+      - - {x: 57.5, y: -70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: -58.5}
+        - {x: 57.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: 69.5}
+        - {x: 70.5, y: -58.5}
+        - {x: 64.5, y: 70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717a761e3f494b04d92d1e5ce5fc0910
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill icon_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 141
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -67.5}
+        - {x: -70.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+      - - {x: 64.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: -70.5, y: 70.5}
+      - - {x: 57.5, y: -70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: -58.5}
+        - {x: 57.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: 69.5}
+        - {x: 70.5, y: -58.5}
+        - {x: 64.5, y: 70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d43a4726f3e6549ab9274440caf8d2
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill icon_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1
+        width: 141
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -67.5}
+        - {x: -70.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+      - - {x: 64.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: -70.5, y: 70.5}
+      - - {x: 57.5, y: -70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: -58.5}
+        - {x: 57.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: 69.5}
+        - {x: 70.5, y: -58.5}
+        - {x: 64.5, y: 70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1bd01c6df3c824380b75465901617b
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill icon_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 141
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -67.5}
+        - {x: -70.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+      - - {x: 64.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: -70.5, y: 70.5}
+      - - {x: 57.5, y: -70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: -58.5}
+        - {x: 57.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: 69.5}
+        - {x: 70.5, y: -58.5}
+        - {x: 64.5, y: 70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dc849e63e1c9a47901a1f1debfbf8d
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill icon_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 299
+        width: 141
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -67.5}
+        - {x: -70.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+      - - {x: 64.5, y: 70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: -70.5, y: 70.5}
+      - - {x: 57.5, y: -70.5}
+        - {x: -62.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: -58.5}
+        - {x: 57.5, y: -70.5}
+        - {x: 64.5, y: 70.5}
+      - - {x: 70.5, y: 69.5}
+        - {x: 70.5, y: -58.5}
+        - {x: 64.5, y: 70.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccd1c53bf2bc7b4a99c6b330305a670
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      skill icon_0: 21300000
+      skill icon_1: 21300002
+      skill icon_10: 21300016
+      skill icon_11: 21300018
+      skill icon_12: 21300020
+      skill icon_13: 21300022
+      skill icon_2: 21300004
+      skill icon_3: 21300006
+      skill icon_5: 21300008
+      skill icon_6: 21300010
+      skill icon_7: 21300012
+      skill icon_9: 21300014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

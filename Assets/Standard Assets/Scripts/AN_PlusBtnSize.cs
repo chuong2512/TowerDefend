@@ -1,0 +1,7 @@
+public enum AN_PlusBtnSize
+{
+	SIZE_SMALL,
+	SIZE_MEDIUM,
+	SIZE_TALL,
+	SIZE_STANDARD
+}

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1790578114300781041}
+  m_IsPrefabParent: 1
+--- !u!4 &1790578114351112690
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790578114300781041}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790578114300781041
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1790578114351112690}
+  - component: {fileID: 1790578116196606451}
+  m_Layer: 0
+  m_Name: "TowerDB"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790578116196606451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790578114300781041}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 149e6ca9776af9e36b15cc59a01a6455, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  towerList:
+  - {fileID: 1790578116196606463, guid: ba61aebb53816488f995cc8f123579a7, type: 2}
+  - {fileID: 1790578116196606467, guid: 413a4ed7012724feeb28acad168e4264, type: 2}
+  - {fileID: 1790578116196606466, guid: fae1a2fbae5034e6b8bf2cc07bc1b111, type: 2}
+  - {fileID: 1790578116196606467, guid: 2caf3e722b3ed4f1d93d9283a34b1214, type: 2}
+  - {fileID: 1790578116196606463, guid: dca6a4edde82942239a196fe6c6d998c, type: 2}
+  - {fileID: 1790578116196606466, guid: a8173247ba3424ac08f08ec3f8b82adb, type: 2}
+  - {fileID: 1790578116196606466, guid: d08580c6c965440d285df07e28c9277a, type: 2}
+  - {fileID: 1790578116196606466, guid: 7c74fba6d14944a189f6136bc9043126, type: 2}
+  - {fileID: 1790578116196606463, guid: 040f1aa1842d8464ca8e0d396db33e23, type: 2}
+  - {fileID: 1790578116196606467, guid: cba3b828cd8cf440598a31913674b59b, type: 2}
+  - {fileID: 1790578116196606467, guid: 1a6e83e498a2844828a46a2146229c1b, type: 2}
+  - {fileID: 1790578116196606467, guid: 62e254f895e984aaf8eaa3302a0afd85, type: 2}
+  - {fileID: 1790578116196606464, guid: 135e005d3d92243328260f487e6d7b68, type: 2}
+  - {fileID: 1790578116196606466, guid: 112f9d23749b946d896d0c443955844f, type: 2}
+  - {fileID: 1790578116196606466, guid: 90f97f97d41754a21b427425615c9c1c, type: 2}
+  - {fileID: 1790578116196606466, guid: c061eaa628cf94a2d9b10a44f64b42f4, type: 2}
+  - {fileID: 1790578116196606463, guid: 3ace54192b833463496aad5e525a35f6, type: 2}
+  - {fileID: 1790578116196606466, guid: c8fa6639d085940158565fefba843087, type: 2}
+  - {fileID: 1790578116196606467, guid: 841e651b63a6747f0ac556cbece096b5, type: 2}
+  - {fileID: 1790578116196606466, guid: 72bdbe26b3358471e846b860481e9b5d, type: 2}
+  - {fileID: 1790578116196606468, guid: 3c19caebf1956449394e0c57797ac2fc, type: 2}
+  - {fileID: 1790578116196606471, guid: f7d98fe6b28c54ee3bce03407da4ebba, type: 2}
+  - {fileID: 1790578116196606470, guid: df077267e488943a88e4cbd11f28b23f, type: 2}
+  - {fileID: 1790578116196606471, guid: d2558b471b6b5455998868ba892b299b, type: 2}
+  - {fileID: 1790578116196606463, guid: fc20a563580184495a6b5b80b4d2a8d5, type: 2}
+  - {fileID: 1790578116196606466, guid: 5f3bdc634b7d04ff4b543559b4325ca4, type: 2}
+  - {fileID: 1790578116196606467, guid: 32f8b59efb338494aaf21f14782763b3, type: 2}
+  - {fileID: 1790578116196606467, guid: 6f8df6e96c7a54e69a0158b83556fce8, type: 2}

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1790578114300781041}
+  m_IsPrefabParent: 1
+--- !u!4 &1790578114351112690
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790578114300781041}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790578114300781041
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1790578114351112690}
+  - component: {fileID: 1790578116196606451}
+  m_Layer: 0
+  m_Name: "CreepDB"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790578116196606451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1790578114300781041}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e8be1b4991a35e251a98448ae6a062b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  creepList:
+  - {fileID: 1790578116196606459, guid: 8ffe969460f604280b2602a5c337b7ae, type: 2}
+  - {fileID: 1790578116196606459, guid: 99ccf5c1d670247bc9e2daf0991dac3b, type: 2}
+  - {fileID: 1790578116196606459, guid: e2b4620abd94a40c7ab3e1a26b4789d8, type: 2}
+  - {fileID: 1790578116196606459, guid: 30338696aabe84f7f9e24a7ea6db8f18, type: 2}
+  - {fileID: 1790578116196606459, guid: fdf388ce06f0742b5a565898fd16aa75, type: 2}
+  - {fileID: 1790578116196606459, guid: 455076c6562b3457fa2f92ae3282c989, type: 2}
+  - {fileID: 1790578116196606459, guid: 0a49b855e189e450e98e3475bcb84c0f, type: 2}
+  - {fileID: 1790578116196606459, guid: 26a75f847d3dc4fc58f00bab723433ba, type: 2}
+  - {fileID: 1790578116196606459, guid: 47590c407383d4b3fa88d04b8e80ea21, type: 2}
+  - {fileID: 1790578116196606463, guid: 63a0f8019905e4c6fbb00914b1540b82, type: 2}
+  - {fileID: 1790578116196606459, guid: 77fedaaecd0c540b28dd77b3444109d4, type: 2}
+  - {fileID: 1790578116196606459, guid: e0d108010308b4299853ad2a3fcd4309, type: 2}
+  - {fileID: 1790578116196606459, guid: c4673967abe9c4e02847facc96f0eddc, type: 2}
+  - {fileID: 1790578116196606459, guid: 5969805c484c94a529eadcbaf0e6cfe1, type: 2}
+  - {fileID: 1790578116196606463, guid: 2936fb018e4b7428cbe93fe42530b986, type: 2}
+  - {fileID: 1790578116196606459, guid: 8262b1bca6ce34eaba3ebae40b0bef7c, type: 2}
+  - {fileID: 1790578116196606459, guid: 3ef57701b2d9346cea4865c684c4a86d, type: 2}
+  - {fileID: 1790578116196606459, guid: 43663d1b6539c4cd5b4d8a1c1bf115c5, type: 2}
+  - {fileID: 1790578116196606459, guid: 3cbaf491f14b643029b067883ae31a9f, type: 2}
+  - {fileID: 1790578116196606459, guid: 5dc3b66caf6e1452cb2225038314bb31, type: 2}
+  - {fileID: 1790578116196606459, guid: 6586e1064efdf4038aa56a49e3194b85, type: 2}
+  - {fileID: 1790578116196606459, guid: 99547e10c8f27411fb3caa69f308d1a1, type: 2}

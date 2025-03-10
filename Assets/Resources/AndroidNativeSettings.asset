@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e169132c4cbaba2fe1e7421cb3675f, type: 3}
+  m_Name: "AndroidNativeSettings"
+  m_EditorClassIdentifier: 
+  EnablePlusAPI: 1
+  EnableGamesAPI: 1
+  EnableAppInviteAPI: 1
+  EnableDriveAPI: 1
+  LoadProfileIcons: 1
+  LoadProfileImages: 1
+  LoadQuestsImages: 1
+  LoadQuestsIcons: 1
+  LoadEventsIcons: 1
+  ShowConnectingPopup: 1
+  EnableATCSupport: 0
+  OneSignalEnabled: 0
+  OneSignalAppID: "YOUR_ONESIGNAL_APP_ID"
+  OneSignalDownloadLink: "https:\x2f\x2fgoo.gl\x2fVc6tfK"
+  OneSignalDocLink: "https:\x2f\x2fgoo.gl\x2faZjkxV"
+  UseParsePushNotifications: 0
+  ParseAppId: "YOUR_PARSE_APP_ID"
+  DotNetKey: "YOUR_PARSE_DOT_NET_KEY"
+  ParseDocLink: "http:\x2f\x2fgoo.gl\x2f9BgQ8r"
+  ParseDownloadLink: "https:\x2f\x2fgoo.gl\x2fdm7jYL"
+  DialogTheme: 0
+  EnableSoomla: 0
+  SoomlaDownloadLink: "http:\x2f\x2fgoo.gl\x2f7LYwuj"
+  SoomlaDocsLink: "https:\x2f\x2fgoo.gl\x2fes5j1N"
+  SoomlaGameKey: 
+  SoomlaEnvKey: 
+  Ad_EditorFillRateIndex: 4
+  Ad_EditorFillRate: 100
+  Is_Ad_EditorTestingEnabled: 1
+  InApps_EditorFillRateIndex: 4
+  InApps_EditorFillRate: 100
+  Is_InApps_EditorTestingEnabled: 1
+  Is_Leaderboards_Editor_Notifications_Enabled: 1
+  Is_Achievements_Editor_Notifications_Enabled: 1
+  GCM_SenderId: "YOUR_SENDER_ID_HERE"
+  PushService: 0
+  SaveCameraImageToGallery: 0
+  UseProductNameAsFolderName: 1
+  GalleryFolderName: "Tower Defense: Battle Zone"
+  MaxImageLoadSize: 512
+  CameraCaptureMode: 0
+  ImageFormat: 0
+  ShowAppPermissions: 1
+  EnableBillingAPI: 1
+  EnablePSAPI: 1
+  EnableSocialAPI: 1
+  EnableCameraAPI: 0
+  ExpandNativeAPI: 1
+  ExpandPSAPI: 1
+  ExpandBillingAPI: 1
+  ExpandSocialAPI: 1
+  ExpandCameraAPI: 1
+  ThirdPartyParams: 0
+  ShowPSSettingsResources: 0
+  ShowActions: 0
+  GCMSettingsActinve: 0
+  LocalNotificationsAPI: 1
+  ImmersiveModeAPI: 0
+  ApplicationInformationAPI: 0
+  ExternalAppsAPI: 0
+  PoupsandPreloadersAPI: 0
+  CheckAppLicenseAPI: 0
+  NetworkStateAPI: 0
+  FirebaseAnalytics: 0
+  InAppPurchasesAPI: 1
+  GooglePlayServicesAPI: 1
+  PlayServicesAdvancedSignInAPI: 0
+  GoogleButtonAPI: 0
+  AnalyticsAPI: 1
+  GoogleCloudSaveAPI: 1
+  PushNotificationsAPI: 0
+  GoogleMobileAdAPI: 1
+  GoogleOAuthAPI: 0
+  GalleryAPI: 0
+  CameraAPI: 0
+  KeepManifestClean: 0
+  GooglePlayServiceAppID: "633277971928"
+  ToolbarSelectedIndex: 0
+  base64EncodedPublicKey: "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkqsivksrJSfeVAJrYMw8OMmKRCaLf6socF4Eyqo2MIRhcplKd9p58Z3UQWkGO2Kf4D\x2frGa46MXJzmrofL7BDTncGzUxvUUQ\x2f12KGl7QF1DjqCIwFFcA2NCQk609cGdD9WhUbiNKhe30HXyYVN867rlFbcXy2mYjseHwQVDX+Iy8gJ1ywwOLPf1wkzwGIKE29olEkckya0FF53C2Gxxb4cb5IY+M+Sju\x2fw5YHV3\x2fgWezsIeWl\x2fvinV7N5+SQlgsBPC0f\x2fhpvnCFfkGn\x2f4Bh+2RUhWpM2jFZOKxzlDp9xeY5VgSYrbdqJGHSVDPTrl7cOPCkrThXae83FSYIS+Tc2iKwIDAQAB"
+  ShowStoreProducts: 1
+  InAppProducts:
+  - IsOpen: 1
+    SKU: "remove_ads"
+    _LocalizedPrice: "0.99 $"
+    _PriceAmountMicros: 990000
+    _PriceCurrencyCode: "USD"
+    _Description: 
+    _Title: "New Product"
+    _Texture: {fileID: 0}
+    _ProductType: 0
+  - IsOpen: 1
+    SKU: "small_pack"
+    _LocalizedPrice: "0.99 $"
+    _PriceAmountMicros: 990000
+    _PriceCurrencyCode: "USD"
+    _Description: 
+    _Title: "New Product"
+    _Texture: {fileID: 0}
+    _ProductType: 0
+  - IsOpen: 1
+    SKU: "medium_pack"
+    _LocalizedPrice: "0.99 $"
+    _PriceAmountMicros: 990000
+    _PriceCurrencyCode: "USD"
+    _Description: 
+    _Title: "New Product"
+    _Texture: {fileID: 0}
+    _ProductType: 0
+  - IsOpen: 1
+    SKU: "big_pack"
+    _LocalizedPrice: "0.99 $"
+    _PriceAmountMicros: 990000
+    _PriceCurrencyCode: "USD"
+    _Description: 
+    _Title: "New Product"
+    _Texture: {fileID: 0}
+    _ProductType: 0
+  - IsOpen: 1
+    SKU: "xl_pack"
+    _LocalizedPrice: "0.99 $"
+    _PriceAmountMicros: 990000
+    _PriceCurrencyCode: "USD"
+    _Description: 
+    _Title: "New Product"
+    _Texture: {fileID: 0}
+    _ProductType: 0
+  - IsOpen: 1
+    SKU: "huge_pack"
+    _LocalizedPrice: "0.99 $"
+    _PriceAmountMicros: 990000
+    _PriceCurrencyCode: "USD"
+    _Description: 
+    _Title: "New Product"
+    _Texture: {fileID: 0}
+    _ProductType: 0
+  - IsOpen: 1
+    SKU: "ultra_pack"
+    _LocalizedPrice: "0.99 $"
+    _PriceAmountMicros: 990000
+    _PriceCurrencyCode: "USD"
+    _Description: 
+    _Title: "New Product"
+    _Texture: {fileID: 0}
+    _ProductType: 0
+  ShowLeaderboards: 1
+  Leaderboards: []
+  ShowAchievements: 1
+  Achievements: []
+  ShowWhenAppIsForeground: 1
+  EnableVibrationLocal: 0
+  LocalNotificationSmallIcon: {fileID: 0}
+  LocalNotificationLargeIcon: {fileID: 0}
+  LocalNotificationSound: {fileID: 0}
+  LocalNotificationWakeLockTimer: 12
+  ReplaceOldNotificationWithNew: 0
+  ShowPushWhenAppIsForeground: 1
+  EnableVibrationPush: 0
+  PushNotificationColor: {r: 1, g: 1, b: 1, a: 1}
+  PushNotificationSmallIcon: {fileID: 0}
+  PushNotificationLargeIcon: {fileID: 0}
+  PushNotificationSound: {fileID: 0}
