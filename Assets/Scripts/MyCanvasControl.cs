@@ -143,7 +143,7 @@ public class MyCanvasControl : MonoBehaviour
 		GetGear(MadLevel.currentLevelName);
 		int value = ScoreNum * StarNum;
 		DBManager.IncreaseFunds("coins", value);
-		RewardText.text = value.ToString() + " Gear";
+		RewardText.text = value.ToString();
 	}
 
 	public void Hotdemo()
