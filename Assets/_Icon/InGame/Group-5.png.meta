@@ -1,19 +1,13 @@
 fileFormatVersion: 2
-guid: 7398261d10fb45489670fd1bbf6a5c5a
+guid: 1dfc2ef6ef782044198af0c1743b1e29
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 21300000
-    second: gird_1
-  - first:
-      213: 21300002
-    second: gird_0
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
-    sRGBTexture: 0
+    enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
@@ -36,7 +30,7 @@ TextureImporter:
   generateCubemap: 6
   cubemapConvolution: 0
   seamlessCubemap: 0
-  textureFormat: 4
+  textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
@@ -46,21 +40,21 @@ TextureImporter:
     wrapU: 0
     wrapV: 0
     wrapW: 0
-  nPOTScale: 0
+  nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 0
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 80.8
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 0
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -69,9 +63,9 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -166,61 +160,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: gird_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 551
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -512, y: -275.5}
-        - {x: -512, y: 275.5}
-        - {x: 512, y: -275.5}
-      - - {x: 512, y: 275.5}
-        - {x: 512, y: -275.5}
-        - {x: -512, y: 275.5}
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 08be982d1bab9f74c84d972f6bf3bd04
-      internalID: 21300002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gird_1
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 0
-        width: 472
-        height: 551
-      alignment: 9
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -236, y: -275.5}
-        - {x: -236, y: 275.5}
-        - {x: 236, y: -275.5}
-      - - {x: 236, y: 275.5}
-        - {x: 236, y: -275.5}
-        - {x: -236, y: 275.5}
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d73ed6f2577b4434da0647025154de49
-      internalID: 21300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -231,9 +171,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      gird_0: 21300002
-      gird_1: 21300000
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
