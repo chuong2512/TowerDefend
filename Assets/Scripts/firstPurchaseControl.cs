@@ -41,11 +41,11 @@ public class firstPurchaseControl : MonoBehaviour
 
 	public void First1()
 	{
-		IAPManager.PurchaseProduct("first_pack1");
+		//IAPManager.PurchaseProduct("first_pack1");
 	}
 
 	public void First2()
 	{
-		IAPManager.PurchaseProduct("first_pack2");
+		//IAPManager.PurchaseProduct("first_pack2");
 	}
 }

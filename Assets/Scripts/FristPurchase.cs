@@ -5,6 +5,6 @@ public class FristPurchase : MonoBehaviour
 {
 	public void FristPurchseFc()
 	{
-		IAPManager.PurchaseProduct("first_pack1");
+		//IAPManager.PurchaseProduct("first_pack1");
 	}
 }
